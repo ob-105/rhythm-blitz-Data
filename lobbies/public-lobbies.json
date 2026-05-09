@@ -1,13 +1,4 @@
 {
-  "lobbies": [
-    {
-      "lobbyId": "sheffield-silk-columnists-ben",
-      "tunnelUrl": "https://sheffield-silk-columnists-ben.trycloudflare.com",
-      "roomId": "MAZSAL",
-      "hostName": "a",
-      "createdAt": "2026-05-09T08:06:04.406Z",
-      "lastHeartbeatAt": "2026-05-09T08:10:40.254Z"
-    }
-  ],
-  "updatedAt": "2026-05-09T08:10:40.254Z"
+  "lobbies": [],
+  "updatedAt": "2026-05-09T08:10:47.773Z"
 }
