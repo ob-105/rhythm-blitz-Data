@@ -1,4 +1,13 @@
 {
-  "lobbies": [],
-  "updatedAt": "2026-05-10T08:53:47.330Z"
+  "lobbies": [
+    {
+      "lobbyId": "strengthening-atmosphere-messages-lat",
+      "tunnelUrl": "https://strengthening-atmosphere-messages-lat.trycloudflare.com",
+      "roomId": "VYBKDJ",
+      "hostName": "ok",
+      "createdAt": "2026-05-11T04:41:50.908Z",
+      "lastHeartbeatAt": "2026-05-11T04:41:50.908Z"
+    }
+  ],
+  "updatedAt": "2026-05-11T04:41:50.908Z"
 }
