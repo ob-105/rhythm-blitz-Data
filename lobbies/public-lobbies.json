@@ -1,4 +1,13 @@
 {
-  "lobbies": [],
-  "updatedAt": "2026-06-02T18:28:53.156Z"
+  "lobbies": [
+    {
+      "lobbyId": "fellow-reverse-warned-automated",
+      "tunnelUrl": "https://fellow-reverse-warned-automated.trycloudflare.com",
+      "roomId": "WLBWHW",
+      "hostName": "ob",
+      "createdAt": "2026-06-02T19:31:03.323Z",
+      "lastHeartbeatAt": "2026-06-02T19:31:03.323Z"
+    }
+  ],
+  "updatedAt": "2026-06-02T19:31:03.323Z"
 }
