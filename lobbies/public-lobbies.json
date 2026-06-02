@@ -1,4 +1,13 @@
 {
-  "lobbies": [],
-  "updatedAt": "2026-06-02T19:31:09.021Z"
+  "lobbies": [
+    {
+      "lobbyId": "diversity-dallas-isolated-passengers",
+      "tunnelUrl": "https://diversity-dallas-isolated-passengers.trycloudflare.com",
+      "roomId": "TW4ULJ",
+      "hostName": "ob",
+      "createdAt": "2026-06-02T20:14:55.064Z",
+      "lastHeartbeatAt": "2026-06-02T20:14:55.064Z"
+    }
+  ],
+  "updatedAt": "2026-06-02T20:14:55.064Z"
 }
