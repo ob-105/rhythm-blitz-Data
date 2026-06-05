@@ -1,4 +1,13 @@
 {
-  "lobbies": [],
-  "updatedAt": "2026-06-03T00:09:53.191Z"
+  "lobbies": [
+    {
+      "lobbyId": "breach-devel-sci-expo",
+      "tunnelUrl": "https://breach-devel-sci-expo.trycloudflare.com",
+      "roomId": "H2HDAB",
+      "hostName": "ob",
+      "createdAt": "2026-06-05T22:34:00.217Z",
+      "lastHeartbeatAt": "2026-06-05T22:34:00.217Z"
+    }
+  ],
+  "updatedAt": "2026-06-05T22:34:00.217Z"
 }
