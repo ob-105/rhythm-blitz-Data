@@ -1,37 +1,4 @@
 {
-  "lobbies": [
-    {
-      "lobbyId": "monsters-secretariat-gmt-nathan",
-      "tunnelUrl": "https://monsters-secretariat-gmt-nathan.trycloudflare.com",
-      "roomId": "CFPF3Y",
-      "hostName": "a",
-      "createdAt": "2026-07-14T22:14:54.880Z",
-      "lastHeartbeatAt": "2026-07-14T22:14:54.880Z"
-    },
-    {
-      "lobbyId": "holes-pod-extensions-thereafter",
-      "tunnelUrl": "https://holes-pod-extensions-thereafter.trycloudflare.com",
-      "roomId": "DZGZX6",
-      "hostName": "ob",
-      "createdAt": "2026-06-13T04:57:04.964Z",
-      "lastHeartbeatAt": "2026-06-13T05:11:15.843Z"
-    },
-    {
-      "lobbyId": "probably-staying-monsters-origin",
-      "tunnelUrl": "https://probably-staying-monsters-origin.trycloudflare.com",
-      "roomId": "Z7CRMV",
-      "hostName": "ob",
-      "createdAt": "2026-06-05T22:37:21.732Z",
-      "lastHeartbeatAt": "2026-06-05T22:38:38.469Z"
-    },
-    {
-      "lobbyId": "breach-devel-sci-expo",
-      "tunnelUrl": "https://breach-devel-sci-expo.trycloudflare.com",
-      "roomId": "H2HDAB",
-      "hostName": "ob",
-      "createdAt": "2026-06-05T22:34:00.217Z",
-      "lastHeartbeatAt": "2026-06-05T22:36:55.954Z"
-    }
-  ],
-  "updatedAt": "2026-07-14T22:14:54.880Z"
+  "lobbies": [],
+  "updatedAt": "2026-07-14T22:38:16.634Z"
 }
