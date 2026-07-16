@@ -1,4 +1,13 @@
 {
-  "lobbies": [],
-  "updatedAt": "2026-07-15T03:43:07.783Z"
+  "lobbies": [
+    {
+      "lobbyId": "FEAQ58",
+      "tunnelUrl": "http://localhost:3000",
+      "roomId": "FEAQ58",
+      "hostName": "a",
+      "createdAt": "2026-07-16T01:36:14.162Z",
+      "lastHeartbeatAt": "2026-07-16T01:36:14.162Z"
+    }
+  ],
+  "updatedAt": "2026-07-16T01:36:14.162Z"
 }
